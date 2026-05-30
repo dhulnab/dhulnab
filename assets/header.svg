@@ -45,6 +45,22 @@
       <feGaussianBlur stdDeviation="3.2" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
+    <!-- edge-fade: dissolves the banner into the page on every side -->
+    <linearGradient id="fadeX" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"    stop-color="#000" stop-opacity="1"/>
+      <stop offset="0.06" stop-color="#000" stop-opacity="0"/>
+      <stop offset="0.94" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1"    stop-color="#000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="fadeY" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0"    stop-color="#000" stop-opacity="0"/>
+      <stop offset="0.74" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1"    stop-color="#000" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="edgeFade" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="360">
+      <rect width="1200" height="360" fill="#fff"/>
+      <rect width="1200" height="360" fill="url(#fadeY)"/>
+    </mask>
     <style>
       .star { animation-name: tw; animation-iteration-count: infinite; animation-timing-function: ease-in-out; }
       @keyframes tw { 0%,100% { opacity:.2 } 50% { opacity:1 } }
@@ -65,6 +81,7 @@
     </style>
   </defs>
 
+  <g mask="url(#edgeFade)">
   <rect width="1200" height="360" fill="url(#bg)"/>
 
   <!-- nebulae -->
@@ -171,5 +188,6 @@
     <rect class="ul" x="2" y="38" width="430" height="3" rx="1.5" fill="url(#ul)"/>
     <text class="sub" x="2" y="78" font-family="'Trebuchet MS','Segoe UI',system-ui,sans-serif" font-size="21" letter-spacing="2" fill="#E6F0EE">Backend-focused Software Engineer</text>
     <text class="chip" x="2" y="112" font-family="'Courier New',monospace" font-size="14.5" letter-spacing="1.5" fill="#8FA8A0">// APIs &#183; system design &#183; production fintech &#183; AI</text>
+  </g>
   </g>
 </svg>

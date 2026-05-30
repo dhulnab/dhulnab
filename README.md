@@ -13,7 +13,7 @@
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=1D9E75&center=true&vCenter=true&width=720&height=46&lines=Architecting+backend+services+for+live+financial+products;Cutting+API+latency+with+async%2C+caching+and+query+tuning;Owner+of+the+FFC+loan-engine%2C+App+and+Portal+backends;Turning+messy+workflows+into+reliable+automated+services" alt="What I build" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=1D9E75&center=true&vCenter=true&width=720&height=46&lines=Architecting+backend+services+for+live+financial+products;Cutting+API+latency;Turning+messy+workflows+into+reliable+automated+services" alt="What I build" />
 
   <br/><br/>
 
@@ -21,6 +21,10 @@
   <a href="mailto:dhulfiqarali6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Baghdad,_Iraq-0A1124?style=for-the-badge&logo=googlemaps&logoColor=1D9E75" alt="Location"/>
   <img src="https://komarev.com/ghpvc/?username=dhulnab&label=PROFILE+VIEWS&color=1D9E75&style=for-the-badge" alt="Profile views"/>
+
+  <br/><br/>
+
+  <samp>backend systems that stay fast under real load · fintech in production · clean by default</samp>
 
 </div>
 
@@ -45,10 +49,10 @@ I'm a backend-focused engineer who builds **scalable, production financial syste
 ### 🚀 &nbsp; What I'm orbiting right now
 
 - 🏦 &nbsp; Architecting and operating backend services for live financial products
-- ⚡ &nbsp; Cutting API latency through async processing, caching, and PostgreSQL query tuning
-- 🐳 &nbsp; Owning the Dockerized **CI/CD** pipeline and production releases
+- ⚡ &nbsp; Cutting API latency
+- 🐳 &nbsp; **CI/CD** pipeline and production releases
 - 🤖 &nbsp; Automating manual business workflows into maintainable services
-- 📐 &nbsp; Setting team coding standards and acting as the final code-review gate
+- 📐 &nbsp; Setting team coding standards, code-reviewing 
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="92%" /></div>
 
@@ -98,20 +102,20 @@ I'm a backend-focused engineer who builds **scalable, production financial syste
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dhulnab&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=34F5B0&icon_color=1D9E75&text_color=C9D6D1&bg_color=0A1124" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhulnab&layout=compact&langs_count=8&hide_border=true&title_color=34F5B0&text_color=C9D6D1&bg_color=0A1124" alt="Top languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=dhulnab&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=34F5B0&icon_color=1D9E75&text_color=C9D6D1&bg_color=00000000" alt="GitHub stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dhulnab&layout=compact&langs_count=8&hide_border=true&title_color=34F5B0&text_color=C9D6D1&bg_color=00000000" alt="Top languages" />
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=dhulnab&hide_border=true&background=0A1124&stroke=0A1124&ring=34F5B0&fire=34F5B0&currStreakNum=FFFFFF&sideNums=C9D6D1&currStreakLabel=34F5B0&sideLabels=8FA8A0&dates=8FA8A0" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=dhulnab&hide_border=true&background=00000000&stroke=1D9E75&ring=34F5B0&fire=34F5B0&currStreakNum=FFFFFF&sideNums=C9D6D1&currStreakLabel=34F5B0&sideLabels=8FA8A0&dates=8FA8A0" alt="GitHub streak" />
 
   <br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhulnab&bg_color=0A1124&color=34F5B0&line=1D9E75&point=FFFFFF&area=true&area_color=1D9E75&hide_border=true&custom_title=Contribution%20Orbit" alt="Contribution graph" width="96%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhulnab&bg_color=00000000&color=34F5B0&line=1D9E75&point=FFFFFF&area=true&area_color=1D9E75&hide_border=true&custom_title=Contribution%20Orbit" alt="Contribution graph" width="96%" />
 
   <br/><br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=dhulnab&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=dhulnab&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=7" alt="Trophies" />
 
 </div>
 
