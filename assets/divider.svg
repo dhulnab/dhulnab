@@ -1,0 +1,25 @@
+<svg viewBox="0 0 1000 46" width="1000" height="46" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="section divider">
+  <defs>
+    <linearGradient id="dl" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#1D9E75" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#1D9E75" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#34F5B0" stop-opacity="0.95"/>
+      <stop offset="80%" stop-color="#38BDF8" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="40%" stop-color="#34F5B0"/>
+      <stop offset="100%" stop-color="#1D9E75" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .star { animation: tw 3s ease-in-out infinite; }
+      @keyframes tw { 0%,100% { opacity:.2 } 50% { opacity:1 } }
+      .trav { animation: trav 7s ease-in-out infinite; }
+      @keyframes trav { 0% { transform:translateX(60px) } 50% { transform:translateX(940px) } 100% { transform:translateX(60px) } }
+    </style>
+  </defs>
+  <circle class="star" cx="824.9" cy="31.2" r="1.01" fill="#38BDF8" opacity="0.5" style="animation-duration:3.47s;animation-delay:2.44s"/><circle class="star" cx="139.3" cy="23.9" r="1.0" fill="#E6F0EE" opacity="0.5" style="animation-duration:3.65s;animation-delay:1.75s"/><circle class="star" cx="892.8" cy="30.0" r="1.15" fill="#E6F0EE" opacity="0.5" style="animation-duration:2.17s;animation-delay:0.13s"/><circle class="star" cx="637.1" cy="40.5" r="0.9" fill="#38BDF8" opacity="0.5" style="animation-duration:3.12s;animation-delay:1.88s"/><circle class="star" cx="626.2" cy="29.9" r="0.99" fill="#E6F0EE" opacity="0.5" style="animation-duration:2.91s;animation-delay:0.21s"/><circle class="star" cx="932.5" cy="38.1" r="0.67" fill="#34F5B0" opacity="0.5" style="animation-duration:2.13s;animation-delay:2.21s"/><circle class="star" cx="252.2" cy="6.8" r="0.81" fill="#34F5B0" opacity="0.5" style="animation-duration:3.51s;animation-delay:0.69s"/><circle class="star" cx="649.9" cy="21.5" r="1.28" fill="#E6F0EE" opacity="0.5" style="animation-duration:2.96s;animation-delay:2.05s"/><circle class="star" cx="767.0" cy="27.4" r="1.11" fill="#E6F0EE" opacity="0.5" style="animation-duration:3.2s;animation-delay:1.0s"/><circle class="star" cx="651.5" cy="30.3" r="1.1" fill="#E6F0EE" opacity="0.5" style="animation-duration:2.02s;animation-delay:0.18s"/><circle class="star" cx="268.8" cy="29.5" r="1.15" fill="#34F5B0" opacity="0.5" style="animation-duration:2.98s;animation-delay:2.13s"/><circle class="star" cx="285.5" cy="21.7" r="1.21" fill="#34F5B0" opacity="0.5" style="animation-duration:2.4s;animation-delay:2.93s"/><circle class="star" cx="936.3" cy="4.7" r="0.97" fill="#34F5B0" opacity="0.5" style="animation-duration:3.94s;animation-delay:1.35s"/><circle class="star" cx="268.7" cy="12.0" r="1.36" fill="#E6F0EE" opacity="0.5" style="animation-duration:2.15s;animation-delay:0.27s"/><circle class="star" cx="747.5" cy="13.9" r="0.89" fill="#34F5B0" opacity="0.5" style="animation-duration:3.64s;animation-delay:1.53s"/><circle class="star" cx="886.9" cy="30.7" r="0.79" fill="#38BDF8" opacity="0.5" style="animation-duration:2.79s;animation-delay:0.48s"/><circle class="star" cx="950.0" cy="29.9" r="0.92" fill="#34F5B0" opacity="0.5" style="animation-duration:2.28s;animation-delay:1.03s"/><circle class="star" cx="316.1" cy="35.9" r="0.6" fill="#38BDF8" opacity="0.5" style="animation-duration:3.68s;animation-delay:0.36s"/><circle class="star" cx="926.4" cy="31.1" r="1.32" fill="#38BDF8" opacity="0.5" style="animation-duration:2.51s;animation-delay:0.19s"/><circle class="star" cx="390.2" cy="37.1" r="0.66" fill="#38BDF8" opacity="0.5" style="animation-duration:3.51s;animation-delay:2.56s"/><circle class="star" cx="280.6" cy="6.0" r="1.13" fill="#34F5B0" opacity="0.5" style="animation-duration:3.87s;animation-delay:0.75s"/><circle class="star" cx="265.7" cy="23.4" r="0.75" fill="#38BDF8" opacity="0.5" style="animation-duration:3.57s;animation-delay:1.28s"/><circle class="star" cx="29.0" cy="32.9" r="0.92" fill="#34F5B0" opacity="0.5" style="animation-duration:3.1s;animation-delay:2.16s"/><circle class="star" cx="49.5" cy="31.8" r="0.96" fill="#E6F0EE" opacity="0.5" style="animation-duration:3.29s;animation-delay:0.86s"/><circle class="star" cx="49.0" cy="39.2" r="0.7" fill="#38BDF8" opacity="0.5" style="animation-duration:2.83s;animation-delay:0.85s"/><circle class="star" cx="255.7" cy="32.1" r="1.12" fill="#38BDF8" opacity="0.5" style="animation-duration:3.31s;animation-delay:0.9s"/>
+  <rect x="60" y="22.25" width="880" height="1.5" rx="0.75" fill="url(#dl)"/>
+  <g class="trav"><circle cx="0" cy="23.0" r="9" fill="url(#orb)"/><circle cx="0" cy="23.0" r="2.4" fill="#FFFFFF"/></g>
+</svg>
